@@ -1,12 +1,12 @@
 from absl.testing import absltest
 
 from python_scio.excellent.visits_determine import utils
-from python_scio.excellent.visits_determine import visit_rate_model as visit_rate_model_lib
+from python_scio.excellent.visits_determine import visit_rate_model as visit_doc_rate_model_lib
 from python_scio.excellent.visits_determine.common import DocVisit
 from python_scio.excellent.visits_determine.common import UserDocVisits
-from python_scio.excellent.visits_determine.people_distance import Neighbor
-from python_scio.excellent.visits_determine.people_distance import NeighborInfo
-from python_scio.excellent.visits_determine.people_distance import NeighborProvider
+from python_scio.excellent.visits_determine.people_distance import PatientInfo
+from python_scio.excellent.visits_determine.people_distance import Patient
+from python_scio.excellent.visits_determine.people_distance import PatientProvider
 
 HOUR = 3600 * 1000
 DAY = 86400 * 1000
