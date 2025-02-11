@@ -1,0 +1,46 @@
+“Testin’ the API Blues”
+
+(A bluesy rock jam—think B.B. King meets DevOps! 🎸🖥️)
+[Verse 1]
+Well, I wrote some code, thought I did it right,
+Endpoint’s looking solid, yeah, it’s clean and tight.
+I ran my test suite, thought I’d win the fight,
+But the console said “500?!” …Man, that ain’t right!
+
+[Chorus]
+🎶 Ohhh, I got the testin’ the API blues,
+Postman’s cryin’, logs are lyin’, I don’t know what to do!
+Stack Overflow ain’t helpin’, my brain’s about to lose—
+Ohhh, I got the testin’ the API blues! 🎶
+
+[Verse 2]
+Tried to send a payload, but the server said “Nah,”
+Checked my headers twice, even asked my Ma!
+Docs say “Use OAuth”—man, I gave it a shot,
+Now I’m stuck in a loop… this is not what I thought!
+
+[Pre-Chorus]
+🔍 Check the response, check the stack,
+🛠️ Change the timeout, roll it back!
+🔄 Debug the body, tweak the key…
+🚨 Why the heck’s it returnin’ HTML to me?!
+
+[Chorus]
+🎶 Ohhh, I got the testin’ the API blues,
+Requests keep failing, patience sailing, I’m about to break some news!
+“Boss, we need more time,” but he says, “Yeah, right!”
+So now I’m chuggin’ coffee at 2 AM tonight… 🎶
+
+[Bridge]
+Swagger says one thing, but the backend lies,
+“Expected an object”—what a nice surprise!
+Tried it in cURL, tried it in Node,
+Still gettin’ errors, man, I might explode! 💥
+
+[Outro]
+Well, I pushed a fix, and I held my breath,
+Ran the tests again… oh Lord, it passed!
+I danced in my chair, thought I’d finally won,
+But wait… QA just found another one. 😱
+
+🎶 Ohhh, I got the testin’ the API blues! 🎶
