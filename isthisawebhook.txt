@@ -1,1 +1,49 @@
-Does this index itself? I assume it's a webhok
+“Indexing APIs (Oh No, Oh Yes!)”
+
+(To the tune of a country-rock jam—think Johnny Cash meets DevOps!)
+
+[Verse 1]
+Well, I sat down at my laptop, coffee in my hand,
+Got a ticket from my PM, said, “Hey, go be the man!”
+They want real-time data, they want instant search,
+So now I’m knee-deep in docs and JSON dirt.
+
+[Chorus]
+🎶 Oh no, oh yes, gotta index this API mess!
+Postman’s crashing, auth ain’t passing, why’s this rate limit harassing?!
+Oh no, oh yes, just one more endpoint, I confess,
+But if it fails, I swear I’m done—
+Gonna switch careers and live in the sun! 🎶
+
+[Verse 2]
+First, I check the schema—man, it’s kinda whack,
+Fifty nested objects? Oh, my brain’s off track!
+I ask the backend team, but they just say, “LOL,”
+Now I’m staring at Swagger, feelin’ unwell.
+
+[Pre-Chorus]
+I map the fields, I clean the text,
+I pray this won’t become a wreck,
+Then push to Glean, refresh the feed—
+Oh wait… there’s one more bug to read!
+
+[Chorus]
+🎶 Oh no, oh yes, gotta index this API mess!
+Docs outdated, boss frustrated, webhook’s dead and I’m devastated!
+Oh no, oh yes, gotta debug just like the rest,
+At this rate, I might go insane—
+Or at least start drinking again! 🎶
+
+[Bridge]
+Oooooh, the logs are full of warnings,
+Oooooh, it failed again this morning,
+But hey, look, the data’s flowing!
+It’s live! It’s fast! My code is glowing!
+
+[Outro]
+Now search is working, boss gives a cheer,
+Glean’s indexing fine, the data’s all here!
+I take a deep breath, it’s finally done…
+Oh wait—new API just dropped?!! 😱
+
+🎶 Oh no, oh yes… guess I’ll clean up this API mess! 🎶
