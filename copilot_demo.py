@@ -69,6 +69,7 @@ class VisitRateModelTest(absltest.TestCase):
 
     def create_user_doctor_visits(self, user, timestamps):
         visits = []
+        VIST_TYPE
         for timestamp in timestamps:
             visits.append(
                 DoctorVisit(doc_id=self.doc_id,
